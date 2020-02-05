@@ -77,7 +77,18 @@ class Admin extends CI_Controller
 
      
 
-  
+  function signout(){
+    $this->session->sess_destroy();
+    redirect("Admin");
+  }
+
+
+  public function dashboard(){
+    if($this->session->userdata('admin_id')){
+
+    }else{
+      redirect('Admin');
+    }
 
     $data['title']='Dashboard | Slay Connect';
     $data = array('gender' => 'Male' );
