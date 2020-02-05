@@ -10,7 +10,12 @@ class Admin extends CI_Controller
     // $this->load->model('Api_model');
   }
 
- 
+  public function index()
+  {
+    $data['title']='Admin | Slay Connect';
+    $this->load->view('admin/header',$data);
+    $this->load->view('admin/index',$data);
+  }
 
 
   public function login()
@@ -72,18 +77,7 @@ class Admin extends CI_Controller
 
      
 
-  function signout(){
-    $this->session->sess_destroy();
-    redirect("Admin");
-  }
-
-
-  public function dashboard(){
-    if($this->session->userdata('admin_id')){
-
-    }else{
-      redirect('Admin');
-    }
+  
 
     $data['title']='Dashboard | Slay Connect';
     $data = array('gender' => 'Male' );
