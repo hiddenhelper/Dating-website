@@ -77,60 +77,7 @@ class Admin extends CI_Controller
 
      
 
-  function signout(){
-    $this->session->sess_destroy();
-    redirect("Admin");
-  }
-
-
-  public function dashboard(){
-    if($this->session->userdata('admin_id')){
-
-    }else{
-      redirect('Admin');
-    }
-
-    $data['title']='Dashboard | Slay Connect';
-    $data = array('gender' => 'Male' );
-    $data['users']  = $this->Admin_model->record_count('user',$data);
-    $wheredata = array('gender' => 'Female' );
-    $data['fusers']  = $this->Admin_model->record_count('user',$wheredata);
-    $data['allusers']= $this->Admin_model->count('user','user_id DESC');
-    $this->load->view('admin/header',$data);   
-    $this->load->view("admin/dashboard",$data);
-        
-  }
-
-  public function images()
-  {
-   if (!$this->session->userdata('admin_id')) {
-      redirect('admin');
-     }
-
-    $data['title']='Imges | Slay Connect';
-    $this->load->view('admin/header',$data);
-    $data['photos']=$this->Admin_model->Get_Gallery_img();
-    $this->load->view('admin/all_Images',$data);
-  }
-
-
-  public function activeDeactiveUser()
-  {  
-   	$json = array();
-    if (!$this->session->userdata('admin_id') ) {
-    redirect('admin');
-    }
-    extract($_POST);
-    $post_data['user_status']= $status;
-    $update = $this->Admin_model->updateData('user',$post_data, $id);
-    if($update)
-    {	
-    	$json['result'] = true;
-    }else{
-    	$json['result'] = false;
-    }
-    echo json_encode($json);
-  }
+  
 
 
   public function deactiveUser($id)
