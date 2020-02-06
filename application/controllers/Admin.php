@@ -10,12 +10,7 @@ class Admin extends CI_Controller
     // $this->load->model('Api_model');
   }
 
-  public function index()
-  {
-    $data['title']='Admin | Slay Connect';
-    $this->load->view('admin/header',$data);
-    $this->load->view('admin/index',$data);
-  }
+ 
 
 
   public function login()
