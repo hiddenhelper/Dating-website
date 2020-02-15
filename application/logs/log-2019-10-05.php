@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-10-05 05:08:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-10-05 05:08:42 --> 404 Page Not Found: Api/index
+ERROR - 2019-10-05 05:08:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-10-05 05:09:38 --> 404 Page Not Found: Api/index
+ERROR - 2019-10-05 07:19:34 --> 404 Page Not Found: Apilogin/index
+ERROR - 2019-10-05 07:21:03 --> 404 Page Not Found: Api/index
+ERROR - 2019-10-05 07:21:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-10-05 07:21:51 --> 404 Page Not Found: ApicityList/index
+ERROR - 2019-10-05 07:25:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-10-05 07:27:05 --> 404 Page Not Found: ApicityList/index
+ERROR - 2019-10-05 07:27:18 --> 404 Page Not Found: ApicityList/index
+ERROR - 2019-10-05 08:36:03 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-10-05 08:36:24 --> 404 Page Not Found: Images/profile
+ERROR - 2019-10-05 08:36:24 --> 404 Page Not Found: Images/profile
+ERROR - 2019-10-05 08:36:24 --> 404 Page Not Found: Images/profile
+ERROR - 2019-10-05 08:36:25 --> 404 Page Not Found: Images/profile
+ERROR - 2019-10-05 08:36:25 --> 404 Page Not Found: Images/profile
+ERROR - 2019-10-05 08:36:25 --> 404 Page Not Found: Images/profile
+ERROR - 2019-10-05 08:36:40 --> 404 Page Not Found: Images/profile
+ERROR - 2019-10-05 08:36:41 --> 404 Page Not Found: Images/profile
+ERROR - 2019-10-05 08:36:41 --> 404 Page Not Found: Images/profile
+ERROR - 2019-10-05 08:36:41 --> 404 Page Not Found: Images/profile
+ERROR - 2019-10-05 08:36:41 --> 404 Page Not Found: Images/profile
+ERROR - 2019-10-05 08:36:41 --> 404 Page Not Found: Images/profile
+ERROR - 2019-10-05 08:37:49 --> 404 Page Not Found: Images/profile
+ERROR - 2019-10-05 08:37:49 --> 404 Page Not Found: Images/profile
+ERROR - 2019-10-05 08:37:49 --> 404 Page Not Found: Images/profile

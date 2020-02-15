@@ -1,0 +1,60 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-09-21 00:56:08 --> 404 Page Not Found: Welcome/js
+ERROR - 2019-09-21 00:56:08 --> 404 Page Not Found: Welcome/js
+ERROR - 2019-09-21 00:56:08 --> 404 Page Not Found: Welcome/js
+ERROR - 2019-09-21 00:56:08 --> 404 Page Not Found: Welcome/js
+ERROR - 2019-09-21 00:56:08 --> 404 Page Not Found: Welcome/js
+ERROR - 2019-09-21 04:16:38 --> 404 Page Not Found: Https:/maps.googleapis.com
+ERROR - 2019-09-21 11:34:24 --> 404 Page Not Found: Welcome/js
+ERROR - 2019-09-21 11:34:24 --> 404 Page Not Found: Welcome/js
+ERROR - 2019-09-21 11:34:25 --> 404 Page Not Found: Welcome/js
+ERROR - 2019-09-21 11:34:25 --> 404 Page Not Found: Welcome/js
+ERROR - 2019-09-21 11:34:25 --> 404 Page Not Found: Welcome/js
+ERROR - 2019-09-21 11:34:25 --> 404 Page Not Found: Welcome/js
+ERROR - 2019-09-21 11:34:25 --> 404 Page Not Found: Welcome/js
+ERROR - 2019-09-21 11:34:26 --> 404 Page Not Found: Welcome/js
+ERROR - 2019-09-21 11:34:30 --> 404 Page Not Found: Welcome/images
+ERROR - 2019-09-21 11:34:30 --> 404 Page Not Found: Welcome/images
+ERROR - 2019-09-21 11:34:50 --> 404 Page Not Found: Assets/css
+ERROR - 2019-09-21 11:40:23 --> 404 Page Not Found: Assets/css
+ERROR - 2019-09-21 15:08:00 --> 404 Page Not Found: Welcome/js
+ERROR - 2019-09-21 15:08:00 --> 404 Page Not Found: Welcome/js
+ERROR - 2019-09-21 15:08:00 --> 404 Page Not Found: Welcome/js
+ERROR - 2019-09-21 15:08:00 --> 404 Page Not Found: Welcome/js
+ERROR - 2019-09-21 15:08:01 --> 404 Page Not Found: Welcome/js
+ERROR - 2019-09-21 15:08:01 --> 404 Page Not Found: Welcome/js
+ERROR - 2019-09-21 15:08:01 --> 404 Page Not Found: Welcome/js
+ERROR - 2019-09-21 15:08:01 --> 404 Page Not Found: Welcome/js
+ERROR - 2019-09-21 15:08:13 --> 404 Page Not Found: Https:/maps.googleapis.com
+ERROR - 2019-09-21 15:08:35 --> 404 Page Not Found: Assets/css
+ERROR - 2019-09-21 15:08:38 --> 404 Page Not Found: Assets/css
+ERROR - 2019-09-21 15:09:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-21 15:10:32 --> 404 Page Not Found: Assets/css
+ERROR - 2019-09-21 15:10:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-21 15:13:14 --> 404 Page Not Found: Assets/css
+ERROR - 2019-09-21 15:13:35 --> 404 Page Not Found: Assets/css
+ERROR - 2019-09-21 15:14:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-21 15:15:32 --> 404 Page Not Found: Assets/css
+ERROR - 2019-09-21 15:15:33 --> 404 Page Not Found: Assets/css
+ERROR - 2019-09-21 15:16:04 --> 404 Page Not Found: Assets/css
+ERROR - 2019-09-21 15:16:06 --> 404 Page Not Found: Assets/css
+ERROR - 2019-09-21 15:16:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-21 11:12:59 --> Severity: error --> Exception: syntax error, unexpected ';' /home2/logicals/public_html/slay/application/views/Health/myaccount.php 440
+ERROR - 2019-09-21 11:14:29 --> Severity: error --> Exception: syntax error, unexpected ';' /home2/logicals/public_html/slay/application/views/Health/myaccount.php 440
+ERROR - 2019-09-21 11:14:53 --> Severity: error --> Exception: syntax error, unexpected ';' /home2/logicals/public_html/slay/application/views/Health/myaccount.php 440
+ERROR - 2019-09-21 15:59:02 --> 404 Page Not Found: Assets/css
+ERROR - 2019-09-21 15:59:04 --> 404 Page Not Found: Assets/css
+ERROR - 2019-09-21 16:00:23 --> 404 Page Not Found: Assets/css
+ERROR - 2019-09-21 16:02:25 --> 404 Page Not Found: Assets/css
+ERROR - 2019-09-21 16:02:26 --> 404 Page Not Found: Assets/css
+ERROR - 2019-09-21 16:02:30 --> 404 Page Not Found: Assets/css
+ERROR - 2019-09-21 16:42:49 --> 404 Page Not Found: Welcome/js
+ERROR - 2019-09-21 16:42:49 --> 404 Page Not Found: Welcome/js
+ERROR - 2019-09-21 16:42:49 --> 404 Page Not Found: Welcome/js
+ERROR - 2019-09-21 16:42:49 --> 404 Page Not Found: Welcome/js
+ERROR - 2019-09-21 16:42:49 --> 404 Page Not Found: Welcome/js
+ERROR - 2019-09-21 16:42:50 --> 404 Page Not Found: Welcome/js
+ERROR - 2019-09-21 16:42:50 --> 404 Page Not Found: Welcome/js
+ERROR - 2019-09-21 16:42:50 --> 404 Page Not Found: Welcome/js
+ERROR - 2019-09-21 16:43:05 --> 404 Page Not Found: Assets/css

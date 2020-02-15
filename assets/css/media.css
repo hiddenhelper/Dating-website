@@ -1,0 +1,15 @@
+@media only screen and (max-width: 667px) {
+  body {
+
+    background-color: lightblue;
+  }
+}
+
+<style type="media/css">
+.services{
+
+	margin: -248px 1px -17px 116px;
+}
+
+
+</style>

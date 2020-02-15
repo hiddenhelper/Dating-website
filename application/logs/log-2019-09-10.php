@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-09-10 00:28:33 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-09-10 01:00:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-09-10 01:00:41 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2019-09-10 01:00:44 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2019-09-10 03:30:32 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-09-10 06:47:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-09-10 06:47:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-09-10 06:54:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-09-10 07:42:15 --> 404 Page Not Found: Images/img1.jpg
+ERROR - 2019-09-10 07:42:16 --> 404 Page Not Found: Images/img2.jpg
+ERROR - 2019-09-10 07:42:16 --> 404 Page Not Found: Images/img3.jpg
+ERROR - 2019-09-10 07:42:16 --> 404 Page Not Found: Images/img4.jpg
+ERROR - 2019-09-10 07:42:16 --> 404 Page Not Found: Images/img5.jpg
+ERROR - 2019-09-10 07:42:16 --> 404 Page Not Found: Images/img6.jpg
+ERROR - 2019-09-10 07:42:17 --> 404 Page Not Found: Images/pbg1.png
+ERROR - 2019-09-10 08:03:45 --> 404 Page Not Found: Images/img1.jpg
+ERROR - 2019-09-10 08:03:46 --> 404 Page Not Found: Images/img2.jpg
+ERROR - 2019-09-10 08:03:46 --> 404 Page Not Found: Images/img3.jpg
+ERROR - 2019-09-10 08:03:46 --> 404 Page Not Found: Images/img4.jpg
+ERROR - 2019-09-10 08:03:46 --> 404 Page Not Found: Images/img5.jpg
+ERROR - 2019-09-10 08:03:46 --> 404 Page Not Found: Images/img6.jpg
+ERROR - 2019-09-10 08:03:46 --> 404 Page Not Found: Images/pbg1.png
+ERROR - 2019-09-10 16:02:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-09-10 18:38:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-09-10 20:34:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-09-10 20:34:22 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-09-10 21:03:54 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2019-09-10 21:03:58 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2019-09-10 21:36:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-09-10 23:40:11 --> 404 Page Not Found: Adstxt/index
