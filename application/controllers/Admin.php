@@ -74,12 +74,6 @@ class Admin extends CI_Controller
     $this->load->view("admin/index",$data);
   }
 
-
-     
-
-  
-
-
   public function deactiveUser($id)
   {  
     if (!$this->session->userdata('admin_id') ) 
